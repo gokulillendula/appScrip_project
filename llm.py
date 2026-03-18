@@ -30,6 +30,7 @@ Structure:
 ## Key Trends
 ## Opportunities
 ## Risks
+## Trade Opportunities
 ## Conclusion
 
 Use bullet points where necessary.
